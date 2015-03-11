@@ -1,0 +1,2 @@
+# gofridayadmin
+frontend for Friday
