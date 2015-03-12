@@ -19,7 +19,7 @@ body {
   font-weight: bold;
   font-size: 40px;
   background-color: #ff0000;
-  color: #000;
+  color: #fff;
   padding: 14px;
 }
 
@@ -35,13 +35,13 @@ body {
 .name {
   border-left: 1px solid black;
   border-right: 1px solid black;
-
   margin: 0;
   font-size: 72px;
 }
 
 a {
   text-decoration: none;
+  color:#f36;
 }
 
 a:hover {
