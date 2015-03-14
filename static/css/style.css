@@ -12,8 +12,8 @@ li {
 }
 
 #logo {
+  height: 80px;
   margin-right: 20px;
-  height:100%;
 }
 
 #headertext {
