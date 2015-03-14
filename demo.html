@@ -72,7 +72,11 @@
           });
 
         posting.done(function(data) {
+		if (data === "") {
+		  var returnString = "Not found!"
+		} else {
           var returnString = "GET for " + JSON.stringify(data);
+		}
           $("#result").empty().append(returnString);
         });
       });
